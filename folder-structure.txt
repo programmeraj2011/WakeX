@@ -1,0 +1,38 @@
+WakeX/
+│
+├── README.md
+├── LICENSE
+│
+├── hardware/
+│   ├── pcb/
+│   │   ├── WakeX.kicad_pro
+│   │   ├── WakeX.kicad_sch
+│   │   ├── WakeX.kicad_pcb
+│   │   │
+│   │   ├── gerbers/
+│   │   └── bom/
+│   │       └── BOM.csv
+│   │
+│   └── datasheets/
+│
+├── firmware/
+│   ├── WakeX/
+│   │   └── WakeX.ino
+│   └── libraries.txt
+│
+├── cad/
+│   ├── WakeX.step
+│   ├── enclosure.step
+│   └── renders/
+│
+├── docs/
+│   ├── schematic.png
+│   ├── pcb.png
+│   ├── cad.png
+│   ├── assembly.md
+│   └── development-log.md
+│
+└── images/
+    ├── prototype/
+    ├── pcb/
+    └── final/
